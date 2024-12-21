@@ -1,0 +1,29 @@
+input{
+    width: 560px;
+}
+.search{
+    padding: 10px;
+    background-color: lightsalmon;
+}
+.cart{
+    margin-left: 30px;
+    color: white;
+}
+.slider{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.main{
+    display: flex;
+}
+.price{
+    color: orangered;
+    font-weight: bold;
+}
+.header{
+    background-color: orangered;
+}
+.h2{
+    text-align: center;
+    color: blue;
+}

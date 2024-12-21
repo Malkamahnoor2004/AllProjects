@@ -1,0 +1,24 @@
+.card{
+   border: 1px solid black;
+   height: 300px;
+   width: 300px;
+   margin-top: 20px;
+   background-color: lightcyan;
+   text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    padding: 10px;
+    background-color: aquamarine;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+button:hover{
+    background-color: lightcoral;
+    color: blue;
+}

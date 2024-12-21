@@ -1,0 +1,136 @@
+header{
+    background-color: rgba(18, 142, 184, 0.733);
+    padding: 10px;
+    text-align: center;
+    height: fit-content;
+}
+header a{
+    text-decoration: none;
+    font-size: 25px;
+    color: darkgreen;
+    padding: 15px;
+    color:burlywood;
+}
+header a:hover{
+    text-decoration: underline;
+}
+footer{
+    background-color: rgb(17, 66, 2);
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+footer a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    padding: 15px;
+    color: red;
+}
+footer a:hover{
+    text-decoration: underline;
+}
+.image{
+    margin-top: 15px;
+    margin-left: 120px;
+}
+.details{
+    border: 1px solid rgb(172, 6, 6);
+    padding: 15px;
+    border-radius: 10px;
+    width: 900px;
+    margin-top: 15px;
+    margin-left: 17%;
+    color: blueviolet;
+}
+.details p{
+    font-size: 25px;
+    text-align: center;
+}
+.details h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+.main{
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 10px;
+    width: 900px;
+    margin-top: 15px;
+    margin-left: 17%;
+    
+}
+.main h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+.card{
+    width: 250px;
+ background-color: lightblue;
+}
+.card p{
+    font-weight: bold;
+    color: red;
+}
+.project{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 10px;
+}
+.contact{
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 10px;
+    width: 900px;
+    margin-top: 15px;
+    margin-left: 17%;
+}
+.contact h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+.contact form{
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    justify-content: center;
+    margin-left: 200px;
+    color:darkgreen
+}
+.contact label{
+    margin-top: 10px;
+    background-color: peru;
+    color: blueviolet;
+}
+.contact input{
+    padding: 10px;
+}
+.contact input{
+    margin-top: 10px;
+}
+.contact button{
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+.contact button:hover{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+}
+.message{
+    height: 50px;
+    color:red;
+}
+body{
+    background-color: lightpink;
+    color: blue;
+}

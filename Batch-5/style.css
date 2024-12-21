@@ -1,0 +1,13 @@
+.links{
+    display: flex;
+    flex-direction: column;
+}
+.links a{
+    margin-top: 20px;
+}
+button{
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    background-color: aquamarine;
+}

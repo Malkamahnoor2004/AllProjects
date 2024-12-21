@@ -1,0 +1,42 @@
+div{
+    border: 3px;
+    background-color:lightcoral;
+    padding:20px;
+    margin-top: 30px;
+    margin right: 20px; 
+    margin-left: 20px;
+    height: 500px;
+    width:fit-container;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+p{
+color: aqua;
+}
+button{
+    font-size: 20px;
+    background-color: crimson;
+    padding: 20px;
+    color: blueviolet;
+    font-weight: bold;
+    border: navy;
+    border-radius: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: coral;
+    color: blue;
+}
+img{
+    text-align: center;
+    background-color: aqua;
+    color: blueviolet;
+    padding: 15px;
+    margin: top 24px;
+    width:fit-content
+    border:max-content
+    height: 1000px;
+    width:220px;
+}

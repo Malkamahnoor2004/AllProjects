@@ -1,0 +1,45 @@
+.card{
+    border: 2px solid darksalmon;
+    height: fit-content;
+    width: 20px;
+    background-color: darkslategray;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+button{
+    background-color: lightsalmon;
+    color: darkgoldenrod;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+button:hover{
+    background-color: chocolate;
+    color: darkslateblue;
+
+}
+h2{
+    font-family: cursive;
+    text-align: center;
+}
+p{
+    color: lightgreen;
+    text-align: center;
+}
+ H1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+    }
+    h2{
+    font-family: cursive;
+    text-align: center;
+    color: aquamarine;
+}
+p{
+    color:darkgreen;
+    text-align: center;

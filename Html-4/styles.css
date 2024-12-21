@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: rgb(192, 53, 53);
+    text-decoration: underline;
+}
+form{
+    text-align: center;
+    border: 1px solid rgb(212, 194, 89);
+    padding: 20px;
+    margin-top: 20px;
+    background-color:  rgba(80, 188, 255, 0.514);
+    width: fit-content;
+    margin-left: 26%;
+}
+button{
+    padding: 10px;
+    background-color: blue;
+    color: rgb(17, 5, 49);
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(157, 157, 235);
+    color: black
+}
+input{
+    border: 1px solid rgb(113, 146, 52);
+    cursor: pointer;
+}
+label{
+    color: rgb(121, 34, 34);
+    font-weight: bold;
+}

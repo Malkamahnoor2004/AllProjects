@@ -1,0 +1,8 @@
+.card{
+    text-align: center;
+    margin-top: 15px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}

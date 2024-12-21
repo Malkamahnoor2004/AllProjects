@@ -1,0 +1,32 @@
+.main{
+    height: 900px;
+    width: 900px;
+    border: 1px solid black;
+    display: flex;
+ margin-left: 20%;
+ margin-top: 20px;
+}
+.right{
+    width: 300px;
+    height: 100%;
+    background-color: aqua;
+}
+.left{
+    width: 300px;
+    height: 100%;
+    background-color:rosybrown;
+}
+.middle{
+    width: 300px;
+    height: 100%;
+
+}
+.middle p{
+    font-weight: bold;
+    padding: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}

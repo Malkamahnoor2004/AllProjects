@@ -1,0 +1,33 @@
+.card{
+    border: 2px solid black;
+    height: fit-content;
+    width: 200px;
+    background-color: lightcyan;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+button{
+    background-color: aquamarine;
+    color: rgb(0, 30, 255);
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+}
+h2{
+    font-family: cursive;
+}
+p{
+    color: red;
+}
+/* H1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+} */
+.main{
+    display: flex;
+    justify-content: space-around;
+}
