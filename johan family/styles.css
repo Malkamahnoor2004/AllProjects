@@ -1,0 +1,123 @@
+header{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+header a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+header a:hover{
+    color: orange;
+    border-bottom: 2px solid orange;
+}
+button{
+    border: none;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+h2{
+    background-color:cadetblue;
+    color: crimson;
+}
+}
+.active{
+    color: orange;
+}
+button:hover{
+    background-color: black;
+}
+.search{
+    background-color: orange;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.search:hover{
+    background-color: black;
+    color: white;
+}
+span{
+    color: orange;
+}
+div h1{
+    font-family: cursive;
+} 
+.img{
+    display: flex;
+    justify-content:flex;
+    margin-left: 10px;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.card{
+    height: 350px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.card p{
+    padding-bottom: 100px;
+    border-bottom: 2px solid black;
+}
+.card p:hover{
+    color: orange;
+}
+.end a{
+    text-decoration: none;
+    justify-content: space-around;
+}
+.a1{
+    color: chartreuse;
+    font-weight: bold;
+}
+.end{
+    display: flex;
+}
+.a2{
+    color: black;
+}
+.main{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 20px;
+}
+.btn{
+    padding: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 40%;
+    cursor: pointer;
+}
+.about{
+    width: 400px;
+    height: 300px;
+    margin-left: 10px;
+    padding: 10px;
+}
+.d1{
+    display: flex;
+}
+.d2{
+    display: flex;
+}
+.container{
+    display: flex;
+}
+.contain{
+    margin-left: 40px;
+}
